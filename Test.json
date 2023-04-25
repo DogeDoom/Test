@@ -1,10 +1,10 @@
 {
-  "name": "Blushy",
-  "description": "A pink, lush, and fresh blush.",
+  "name": "owo",
+  "description": "owo.",
   "version": "1.2",
   "authors": [
     {
-      "name": "Kota",
+      "name": "x",
       "id": "499287211381096458"
     }
   ],
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0.1,
-    "url": "https://cdn.discordapp.com/attachments/1082431980609749103/1082432553446801576/q8uKocISAS82Gcza2m3Y_Z22Z8vZU09HYaw27.png",
+    "url": "https://media.discordapp.net/attachments/764383347367215105/982630481130569748/IMG_2215.jpg",
     "alpha": 0.1
   }
 }
